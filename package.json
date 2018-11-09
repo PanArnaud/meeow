@@ -1,6 +1,6 @@
 {
   "name": "meeow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A dose of cute",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
