@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/PanArnaud/meeow.git"
   },
-  "keywords": [],
+  "keywords": ["cat", "cute", "kitten", "image", "url", "generator", "url-generator"],
   "author": "Arnaud Panapadeatchy",
   "license": "Apache 2.0",
   "bugs": {
